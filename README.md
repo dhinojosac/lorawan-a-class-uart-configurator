@@ -1,7 +1,7 @@
 # Node LoRaWAN Parameter configurator
 
 ### Note
-- The program waits for the keyword `>CONF` from the device to start the configuration process, each keyword ends with `\r\n`.
+- The program waits for the keyword from the device to start the configuration process, each keyword ends with `\r\n`.
 
 | Keyword | Description|
 |---------|------------|
